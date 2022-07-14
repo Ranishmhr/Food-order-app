@@ -32,6 +32,11 @@
   color: #363636;
 }
 
+.itemTotal {
+  padding-top: 2px;
+  margin: 5px;
+}
+
 .actions {
   display: flex;
   flex-direction: column;
